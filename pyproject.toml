@@ -1,0 +1,7 @@
+[project]
+name = "rainfall-predictor"
+version = "0.1.0"
+description = "Rainfall prediction classifier"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
